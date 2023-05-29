@@ -2,6 +2,10 @@
 
 This is my final frt project named dress up that helps customer to find cheap and quality product.
 
+## Azure Services Used
+1). static web apps
+2). Microsoft azure portal
+
 ##MY WEBSITE Link : https://orange-glacier-027a52d10.3.azurestaticapps.net/
 
 ## My Youtube demo link : https://youtu.be/1M4sYyvGe_k
